@@ -1,2 +1,2 @@
 # tanvi
-secs 105
+cecs 105
